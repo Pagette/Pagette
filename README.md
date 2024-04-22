@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pagette! I am an aspiring Cybersecurity Analyst</h1>
+<h1>Hi, I'm Pagette! I am an eager Cyber Sercurity Professional.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
